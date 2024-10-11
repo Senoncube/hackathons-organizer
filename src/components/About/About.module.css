@@ -1,0 +1,9 @@
+.about_main {
+    display: flex;
+    column-gap: 20px;
+    margin: 25px 0;
+}
+
+.about_text div {
+    text-align: justify;
+}

@@ -1,0 +1,29 @@
+.input_wrapper {
+
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    font-size: 20px;
+}
+
+.form input, .form button {
+    font-size: 20px;
+}
+
+.form input {
+    appearance: none;
+    border: none;
+    outline: none;
+    border-bottom: .2em solid gray;
+    background: lightgray;
+    border-radius: .2em .2em 0 0;
+    padding: .4em;
+    color: black;
+}
+
+.error_message {
+    color: red;
+}

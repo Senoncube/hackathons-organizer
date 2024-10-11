@@ -1,0 +1,14 @@
+.about {
+    max-width: 1000px;
+}
+
+.about_wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.about h2 {
+    text-align: center;
+    margin: 5px;
+}

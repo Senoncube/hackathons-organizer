@@ -1,0 +1,41 @@
+.page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+}
+
+.page img {
+    width: 66%;
+}
+
+.page .text {
+    text-align: justify;
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+.registered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.registered div {
+    font-size: 25px;
+    color: limegreen;
+}
+
+.registered button {
+    font-size: 15px;
+    color: red;
+    border: none;
+    background: none;
+}
+
+.registered button:hover {
+    cursor: pointer;
+}

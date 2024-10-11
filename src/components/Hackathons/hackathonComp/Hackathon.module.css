@@ -1,0 +1,24 @@
+.hackathon {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.hackathon h2 {
+    font-size: 25px;
+}
+
+.hackathon img {
+    width: 100%;
+}
+
+.hackathon > *:not(img) {
+    padding: 5px;
+}
+
+.hackathon .desc {
+    text-align: justify;
+}

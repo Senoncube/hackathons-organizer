@@ -1,0 +1,10 @@
+.page_wrapper {
+    width: 100%;
+}
+
+.page_wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

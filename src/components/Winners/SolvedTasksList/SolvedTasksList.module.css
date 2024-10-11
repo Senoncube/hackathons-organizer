@@ -1,0 +1,22 @@
+.solved_task_list {
+    font-size: 25px;
+}
+
+.toggle {
+    font-size: 30px;
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.task_list {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin: 10px;
+}
+
+.task {
+
+}
